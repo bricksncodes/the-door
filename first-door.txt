@@ -5,6 +5,11 @@ It can be of diffrent colors
 blue 
 white 
 brown
+red
 ......
 
 sarah opens the door
+
+james looks at the door
+
+james sees sarah
