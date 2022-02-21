@@ -1,0 +1,10 @@
+A retangular shaped object 
+
+It can be of diffrent colors
+
+blue 
+white 
+brown
+......
+
+sarah opens the door
